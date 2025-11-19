@@ -30,3 +30,8 @@ go.work.sum
 
 .idea/
 bin/
+# Managed by gix gitignore workflow
+.env.*
+.DS_Store
+qodana.yaml
+tools/
